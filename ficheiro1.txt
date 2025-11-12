@@ -2,6 +2,6 @@ Este é o exemplo de um ficheiro de texto...
 
 Estou a fazer alterações no ficheiro
 
+altereçao fixe que vou anula
 
-
-altereçao fixe que vou anular
+ALTERAÇÕ EFECTUADAS NO BRANCH NOVAFEATURE
