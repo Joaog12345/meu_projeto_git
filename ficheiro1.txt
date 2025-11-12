@@ -5,3 +5,5 @@ Estou a fazer alterações no ficheiro
 altereçao fixe que vou anula
 
 ALTERAÇÕ EFECTUADAS NO BRANCH NOVAFEATURE
+
+ALTERAÇÃO EM MASTER
